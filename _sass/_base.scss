@@ -27,7 +27,6 @@ table {
   td,
   th {
     font-size: 1rem;
-    padding: 1px 1rem 1px 0;
   }
 
   th {
@@ -72,10 +71,7 @@ blockquote {
     border-color: var(--global-tip-block);
     background-color: var(--global-tip-block-bg);
 
-    em,
-    li,
-    p,
-    strong {
+    p {
       color: var(--global-tip-block-text);
     }
 
@@ -93,10 +89,7 @@ blockquote {
     border-color: var(--global-warning-block);
     background-color: var(--global-warning-block-bg);
 
-    em,
-    li,
-    p,
-    strong {
+    p {
       color: var(--global-warning-block-text);
     }
 
@@ -114,10 +107,7 @@ blockquote {
     border-color: var(--global-danger-block);
     background-color: var(--global-danger-block-bg);
 
-    em,
-    li,
-    p,
-    strong {
+    p {
       color: var(--global-danger-block-text);
     }
 
@@ -198,7 +188,8 @@ ul.task-list input[type="checkbox"] {
   .more-info {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-family: monospace;
+    // font-family: monospace;
+    font-size: 0.9rem;
 
     p {
       display: inline-block;
@@ -443,7 +434,7 @@ footer.fixed-bottom {
     color: var(--global-footer-text-color);
     padding-top: 9px;
     padding-bottom: 8px;
-    text-align: center;
+    text-align: left;
   }
 
   a {
