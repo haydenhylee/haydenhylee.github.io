@@ -2,24 +2,27 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: portrait.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Email: haydenhl [at] sas.upenn.edu</p>
+    <p>Office: DRL 4N43</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am an Assistant Professor in the [Department of Physics and Astronomy](https://www.physics.upenn.edu/) and the [Center for Particle Cosmology](https://particlecosmo.sas.upenn.edu/) at the University of Pennsylvania.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Previously, I did postdoctoral research at the [Kavli Institute of Cosmological Physics](https://kavlicosmo.uchicago.edu/), University of Chicago, and the [Center for the Fundamental Laws of Nature](https://hetg.physics.harvard.edu/), Harvard University. I received my PhD from the [Department of Applied Mathematics and Theoretical Physics](https://www.damtp.cam.ac.uk/), University of Cambridge.
+
+I am a theoretical physicist with broad interests in cosmology, scattering amplitudes, conformal field theory, holography, and effective field theory.
+My recent work has focused on applying formal techniques from particle physics to cosmological contexts.
+
+An up-to-date list of my publications can be found [here](https://inspirehep.net/authors/1351398).
