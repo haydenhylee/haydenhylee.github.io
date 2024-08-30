@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://haydenhylee.github.io/sitemap.xml
